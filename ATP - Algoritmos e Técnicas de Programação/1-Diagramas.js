@@ -1,4 +1,4 @@
-const number = 11111111111
+const n = 11111111111
 
 const isPrimeNumber = (number) => {
     let divisores = 0;
@@ -12,4 +12,4 @@ const isPrimeNumber = (number) => {
     else console.log(number, 'É primo');
 }
 
-isPrimeNumber(number) 
+isPrimeNumber(n) 
